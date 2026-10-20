@@ -1,1 +1,4 @@
 # BildungsurlaubSha6
+
+sha256sum Nachricht_Erteilung.zip
+8a38d1df9b772e08e3967bfcace1f4bd3e51edfbba1b7b32bdca2af0bb01e117  Nachricht_Erteilung.zip
